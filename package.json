@@ -15,6 +15,7 @@
     "url": "http://github.com/thomasboyt/react-pikaday.git"
   },
   "dependencies": {
+    "create-react-class": "^15.5.2",
     "pikaday": "^1.2.0"
   },
   "peerDependencies": {
@@ -29,7 +30,6 @@
     "babel-preset-react": "^6.5.0",
     "babel-preset-stage-2": "^6.11.0",
     "chai": "^1.9.1",
-    "create-react-class": "^15.5.2",
     "css-loader": "^0.23.1",
     "eslint": "^3.2.2",
     "eslint-plugin-react": "^6.0.0",
